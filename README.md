@@ -1,6 +1,6 @@
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_1p5o1e1p5o1e1p5o" src="https://github.com/user-attachments/assets/6fb13ed9-28da-4456-9b73-02fe25ea50f6" />
-<h1 align="center">SciMKG: AMultimodal Knowledge Graph for Science Education with Text, Image, Video and Audio </h1>
+<h1 align="center">SciMKG: A Multimodal Knowledge Graph for Science Education with Text, Image, Video and Audio </h1>
 <p align="center">
   <!-- <!-- Stars / Forks -->
   <a href="https://github.com/kg-bnu/SciMKG">
