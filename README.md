@@ -141,18 +141,12 @@ rdf = triples.rdf()
 
 ## 🧠 Applications
 SciMKG enables:
-
-Multimodal educational question answering (MEQA)
-
-Multimodal question generation
-
-Cross-modal knowledge retrieval
-
-Intelligent tutoring systems
-
-Science education agents
-
-Curriculum-level analytics
+* Multimodal educational question answering (MEQA)
+* Multimodal question generation
+* Cross-modal knowledge retrieval
+* Intelligent tutoring systems
+* Science education agents
+* Curriculum-level analytics
 
 
 
