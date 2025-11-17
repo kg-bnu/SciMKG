@@ -11,9 +11,10 @@
   </a> 
 
   <!-- PyPI -->
-  <a href="https://test.pypi.org/project/scimkg/">
-    <img src="https://img.shields.io/pypi/v/scimkg?style=flat-square&label=PyPI&logo=pypi" />
-  </a>
+   <a href="https://test.pypi.org/project/scimkg/">
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://test.pypi.org/pypi/scimkg/json&label=TestPyPI&query=%24.info.version&color=blue" />
+   </a>
+
 
   <!-- Dataset (Zenodo) -->
   <a href="https://zenodo.org/records/17578391">
