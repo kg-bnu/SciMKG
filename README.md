@@ -11,7 +11,7 @@
   </a> 
 
   <!-- PyPI -->
-  <a href="https://pypi.org/project/scimkg/">
+  <a href="https://test.pypi.org/project/scimkg/">
     <img src="https://img.shields.io/pypi/v/scimkg?style=flat-square&label=PyPI&logo=pypi" />
   </a>
 
