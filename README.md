@@ -38,8 +38,7 @@
 </p>
 
 
-<img width="1271" height="534" alt="scimkg_tech" src="https://github.com/user-attachments/assets/4f139e59-f264-4353-b82c-0bbf362b6829" />
-
+<img width="1271" height="523" alt="scimkg_tech" src="https://github.com/user-attachments/assets/45e99947-aadc-46da-ad0c-d36ab04cea73" />
 
 ## 🔥 Highlights
 
