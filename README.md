@@ -181,11 +181,17 @@ Web Page: https://scimkg.lutong.space/
 ## 📄 Citation
 If you use SciMKG or our construction framework, please cite:
 ```mathematica
-@article{SciMKG2026,
-  title={SciMKG: A Multimodal Knowledge Graph for Science Education with Text, Image, Video and Audio},
-  author={Tong Lu, Zhichun Wang, Yaoyu Zhou, Yiming Guan, Zhiyong Bai, Junsheng Du},
-  year={2026},
-  journal={AAAI}
+@article{Lu_Wang_Zhou_Guan_Bai_Du_2026,
+  title        = {SciMKG: A Multimodal Knowledge Graph for Science Education with Text, Image, Video and Audio},
+  volume       = {40},
+  url          = {https://ojs.aaai.org/index.php/AAAI/article/view/38574},
+  doi          = {10.1609/aaai.v40i18.38574},
+  number       = {18},
+  journal      = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  author       = {Lu, Tong and Wang, Zhichun and Zhou, Yaoyu and Guan, Yiming and Bai, Zhiyong and Du, Junsheng},
+  year         = {2026},
+  month        = {Mar.},
+  pages        = {15466-15474}
 }
 ```
 
