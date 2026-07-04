@@ -1,4 +1,3 @@
-<img width="1298" height="692" alt="image" src="https://github.com/user-attachments/assets/6e3130b5-64ce-4d47-bd85-396b40fbe784" />
 <img width="1024" height="1024" alt="Gemini_Generated_Image_1p5o1e1p5o1e1p5o" src="https://github.com/user-attachments/assets/6fb13ed9-28da-4456-9b73-02fe25ea50f6" />
 <h1 align="center">SciMKG: A Multimodal Knowledge Graph for Science Education with Text, Image, Video and Audio </h1>
 <p align="center">
