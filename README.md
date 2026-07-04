@@ -86,7 +86,7 @@ kg.set_llm_config(
 )
 
 kg.set_pdf_api_config(
-    # default https://pdf.lutong.space/api/v1/misc/extract-images
+    # default https://your-string-pdf(127.0.0.1:3000)/api/v1/misc/extract-images
     api_url="your-pdf-api-url-here"
 )
 
