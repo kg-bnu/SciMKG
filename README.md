@@ -39,6 +39,7 @@
 
 <img width="1271" height="523" alt="scimkg_tech" src="https://github.com/user-attachments/assets/45e99947-aadc-46da-ad0c-d36ab04cea73" />
 
+
 ## 🔥 Highlights
 
 - **Four modalities covered**: text, image, video, audio  
@@ -64,7 +65,6 @@ SciMKG is built using an **Extraction–Verification–Integration–Augmentatio
    Align images, videos, and audio to concepts using multimodal LLMs (e.g., GPT-4o, Gemini).
 
 This pipeline ensures **robustness, high precision, and semantic consistency across modalities**.
-
 
 ## 📦 Installation
 
@@ -175,6 +175,10 @@ Dataset: https://zenodo.org/records/17578391
 Demo: https://demo.scimkg.lutong.space/
 
 Web Page: https://scimkg.lutong.space/
+
+### Update
+## SciMKG Wiki
+[2026.09.03] 🌸 We deploy the wiki page for SciMKG !
 
 
 ## 📄 Citation
