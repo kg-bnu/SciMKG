@@ -186,8 +186,8 @@ Web Page: https://scimkg.lutong.space/
 
 ### Update
 ## SciMKG Wiki
-[2026.09.03] 🌸 We deploy the [wiki](https://wiki.scimkg.lutong.space) page for SciMKG !
-
+[2026.11。11] 🌸 We deploy the [wiki](https://wiki.scimkg.lutong.space) page for SciMKG !
+[2026.11。11] 🌸 We deploy the new Demo [Demo](https://demo.scimkg.lutong.space) page for SciMKG !
 
 ## 📄 Citation
 If you use SciMKG or our construction framework, please cite:
