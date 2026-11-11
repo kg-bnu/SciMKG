@@ -1,32 +1,40 @@
 <img width="1024" height="1024" alt="Gemini_Generated_Image_1p5o1e1p5o1e1p5o" src="https://github.com/user-attachments/assets/6fb13ed9-28da-4456-9b73-02fe25ea50f6" />
 <h1 align="center">SciMKG: A Multimodal Knowledge Graph for Science Education with Text, Image, Video and Audio </h1>
 <p align="center">
-  <!-- <!-- Stars / Forks -->
-  <a href="https://github.com/kg-bnu/SciMKG">
-    <img src="https://img.shields.io/github/stars/kg-bnu/SciMKG?style=flat-square&logo=github&label=Stars" />
-  </a>
-  <a href="https://github.com/kg-bnu/SciMKG/fork">
-    <img src="https://img.shields.io/github/forks/kg-bnu/SciMKG?style=flat-square&logo=github&label=Forks" />
-  </a> 
+<!-- Stars -->
+<a href="https://github.com/kg-bnu/SciMKG">
+  <img src="https://img.shields.io/github/stars/kg-bnu/SciMKG?style=flat-square&logo=github&label=Stars&color=F4B400" />
+</a>
 
-  <!-- PyPI -->
-   <a href="https://test.pypi.org/project/scimkg/">
-	<img src="https://img.shields.io/badge/dynamic/json?url=https://test.pypi.org/pypi/scimkg/json&label=TestPyPI&query=%24.info.version&color=blue" />
-   </a>
+<!-- Forks -->
+<a href="https://github.com/kg-bnu/SciMKG/fork">
+  <img src="https://img.shields.io/github/forks/kg-bnu/SciMKG?style=flat-square&logo=github&label=Forks&color=8E44AD" />
+</a>
 
+<!-- Wiki -->
+<a href="https://wiki.scimkg.lutong.space/?">
+  <img src="https://img.shields.io/badge/Wiki-Documentation-2563EB?style=flat-square&logo=mdbook&logoColor=white" alt="Wiki" />
+</a>
 
-  <!-- Dataset (Zenodo) -->
-  <a href="https://zenodo.org/records/19691725">
-    <img src="https://img.shields.io/badge/Dataset-Zenodo-orange?style=flat-square&logo=zenodo" />
-  </a>
-    <!-- Web -->
-  <a href="https://scimkg.lutong.space/">
-    <img src="https://img.shields.io/badge/Web-Project_Page-blue?style=flat-square&logo=googlechrome" />
-  </a>
-    <!-- Demo -->
-  <a href="https://demo.scimkg.lutong.space/">
-    <img src="https://img.shields.io/badge/Demo-Online-green?style=flat-square&logo=vercel" />
-  </a>
+<!-- PyPI -->
+<a href="https://www.piwheels.org/project/scimkg/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://test.pypi.org/pypi/scimkg/json&label=PyPI&query=%24.info.version&color=0D9488&style=flat-square" />
+</a>
+
+<!-- Dataset (Zenodo) -->
+<a href="https://zenodo.org/records/19691725">
+  <img src="https://img.shields.io/badge/Dataset-Zenodo-EA580C?style=flat-square&logo=zenodo&logoColor=white" />
+</a>
+
+<!-- Web -->
+<a href="https://scimkg.lutong.space/">
+  <img src="https://img.shields.io/badge/Web-Project_Page-DB2777?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<!-- Demo -->
+<a href="https://demo.scimkg.lutong.space/">
+  <img src="https://img.shields.io/badge/Demo-Online-16A34A?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 <br>
